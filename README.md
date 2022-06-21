@@ -7,4 +7,5 @@ Scotese maps from Bristol group
 
 
  
-Figure 1: NWS, Australia paleo-climate maps (Temperature, precipitation and current) for 15Ma, 11Ma, 3Ma and 0Ma and their corresponding paleo-latitudes.
+![NWS](https://user-images.githubusercontent.com/90363570/174915346-c5c0d149-547f-4b66-ac29-37b9a7d97cb6.png)
+Figure 1: paleo-climate maps (Temperature, precipitation and current) for 15Ma, 11Ma, 3Ma and 0Ma and their corresponding paleo-latitudes.
