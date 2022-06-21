@@ -1,2 +1,3 @@
-# Paleo-climate-maps_NWS-Australia-
+# Paleo-climate-maps_NWS-Australia
+Scott Reef Paleo-geographic reconstructions
 Scotese maps from Bristol group
